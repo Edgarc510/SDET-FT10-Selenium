@@ -9,7 +9,7 @@ public class TestBase {
 
     @BeforeMethod
     public void setUp(){
-        Driver.getDriver().get("http://practice.cydeo.com/dropdown");
+        Driver.getDriver().get("https://practice.cydeo.com/dynamic_loading");
     }
     @AfterMethod
     public void tearDown() throws InterruptedException {

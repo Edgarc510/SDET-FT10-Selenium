@@ -92,7 +92,7 @@ public class DropdownTest extends TestBase{
             Assert.assertFalse(eachDeselected.isSelected());
         }
 
-.
+
 
 
     }
